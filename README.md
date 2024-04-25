@@ -1,7 +1,7 @@
 <!-- PROJECT TITLE -->
 
 <div>
-    <h3 align="center">Strings.py</h3>
+    <h1 align="center">Strings.py</h1>
     <p>A python implementation of the UNIX strings command designed for Mach-O binaries.</p>
 </div>
 
